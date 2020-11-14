@@ -8,9 +8,9 @@ Correlation filters (CFs), by virtue of their high computational efficiency, hav
 
 # Publication
 
-MPFD Track is proposed in our paper for TASE. Detailed explanation of our method can be found in the paper:
+MPFD Track is proposed in our paper for ICRA 2021. Detailed explanation of our method can be found in the paper:
 
-Changhong Fu, Teng Li,  Yiming Li,  Jin Jin and Ziang Cao.
+Changhong Fu, Teng Li, Jin Jin, Junjie Ye and Ziang Cao.
 
 Joint Robust Model Prediction and Filters Distillation for Real-Time UAV Tracking
 
@@ -26,7 +26,7 @@ Email:  18621131431@163.com
 
 # Demonstration running instructions
 
-This code is compatible with  DTB70, UAVDT and UAV123@10fps benchmark. Therefore, if you want to run it in benchmark, just put DR2Track folder in trackers, and config sequences and trackers according to instructions from aforementioned benchmarks. 
+This code is compatible with  DTB70, UAVDT and UAV123@10fps benchmark. Therefore, if you want to run it in benchmark, just put MPFD Track folder in trackers, and config sequences and trackers according to instructions from aforementioned benchmarks. 
 
 # Results on UAV datasets
 
